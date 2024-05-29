@@ -1,0 +1,14 @@
+{
+  "seed" : "none",
+  "num_of_device": 7,
+  "use_device_num": 0,
+  "batch_n": 1,
+  "set_gamma": 1.5,
+  "set_L1": 1,
+  "epoch_n": 200,
+  "model_ckpt_path": "./model_ckpt/",
+  "test_result_path": "./model_ckpt/test",
+  "train_data_path": "../data/pickle/RNAStrAlign/redfold_redundant_train.pickle",
+  "val_data_path": "../data/pickle/RNAStrAlign/redfold_redundant_val.pickle",
+  "test_data_path": "../data/pickle/RNAStrAlign/redfold_redundant_test.pickle"
+}

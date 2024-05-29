@@ -1,0 +1,3 @@
+*.ct
+*.pickle
+__pycache__/

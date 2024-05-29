@@ -1,0 +1,20 @@
+{
+  "seed" : "none",
+  "num_of_device": 7,
+  "use_device_num": 0,
+  "up_sampling": true,
+  "u_net_d": 10,
+  "batch_size_stage_1": 20,
+  "batch_size_stage_3": 16,
+  "pp_steps": 20,
+  "step_gamma": 1,
+  "k": 1,
+  "epoches_first": 50, 
+	"epoches_third": 10,
+  "first_model_ckpt_path": "./model_ckpt/phase1",
+  "third_model_ckpt_path": "./model_ckpt/phase3",
+  "test_result_path": "./model_ckpt/test",
+  "train_data_path": "../data/pickle/RNAStrAlign/e2efold_redundant_train600.pickle",
+  "val_data_path": "../data/pickle/RNAStrAlign/e2efold_redundant_val600.pickle",
+  "test_data_path": "../data/pickle/RNAStrAlign/e2efold_redundant_test600.pickle"
+}

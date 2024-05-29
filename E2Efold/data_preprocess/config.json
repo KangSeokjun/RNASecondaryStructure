@@ -1,0 +1,7 @@
+{
+  "ct_files_path": "../data/ct",
+  "length_limit": 600,
+  "output_path": "../data/pickle/test.pickle",
+  "save_path": "../data/pickle",
+  "random_seed": 0
+}
