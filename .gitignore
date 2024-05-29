@@ -1,3 +1,4 @@
 *.ct
 *.pickle
 __pycache__/
+*.tar.gz
