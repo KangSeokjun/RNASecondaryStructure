@@ -73,3 +73,7 @@ cd REDfold
 pip install -r requirements.txt
 ```
 PyTorch must be installed to match the CUDA version
+
+## Reference
+ 
+G. Suh, G. Hwang, S. Kang, D. Baek, and M. Kang, "Enforcing Constraints in RNA Secondary Structure Predictions: A Post-Processing Framework Based on the Assignment Problem," International Conference on Machine Learning (ICML), 2024
