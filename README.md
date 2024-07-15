@@ -35,13 +35,13 @@ scipy
 numpy  
 
 ### Installation
-The installation instructions are based on Anaconda
+The installation instructions are based on Anaconda:
 ```
 conda create -n e2efold python=3.7.3
 cd E2Efold
 pip install -r requirements.txt
 ```
-PyTorch must be installed to match the CUDA version
+PyTorch must be installed to match the CUDA version.
 
 ### Data preprocessing
 ```
@@ -66,13 +66,13 @@ scipy
 numpy  
 
 ### Installation
-The installation instructions are based on Anaconda
+The installation instructions are based on Anaconda:
 ```
 conda create -n redfold python=3.7.16
 cd REDfold
 pip install -r requirements.txt
 ```
-PyTorch must be installed to match the CUDA version
+PyTorch must be installed to match the CUDA version.
 
 ## Reference
  
